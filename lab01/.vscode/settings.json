@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./picasso/Cargo.toml",
+        "./dall-e-rs/Cargo.toml",
+        "./carnival/Cargo.toml",
+        "./io/Cargo.toml",
+        "./mini_grep/Cargo.toml"
+    ]
+}
